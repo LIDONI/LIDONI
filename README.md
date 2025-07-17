@@ -16,7 +16,7 @@
 
 ---
 
-<h1 align="center">⚙️ Compétences & Outils</h1>
+<h1 align="center"> Compétences & Outils</h1>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <!-- Data & Cloud -->
@@ -52,7 +52,7 @@
 
 ---
 
-<h1 align="center">📍 Expériences professionnelles</h1>
+<h1 align="center"> Expériences professionnelles</h1>
 
 -  <b>Data Engineer Climat-Air-Énergie</b> – Métropole Européenne de Lille (2024 - Présent)  
   - Analyse de données territoriales sur la consommation, l’énergie et les GES  
@@ -68,7 +68,7 @@
 
 ---
 
-<h1 align="center">🎓 Formations & Certifications</h1>
+<h1 align="center"> Formations & Certifications</h1>
 
 - 👨‍💻 <b>Data Engineering</b> – OpenClassrooms (2024–2025)  
 - 🤖 <b>Mastère IA & Data Management</b> – IA School, Lyon (2022–2024)  
