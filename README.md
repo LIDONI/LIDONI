@@ -5,7 +5,7 @@
 
 ---
 
-<h1 align="center">🧠 À propos de moi</h1>
+<h1 align="center"> À propos de moi</h1>
 <p align="center">
   Profil hybride dans le domaine de la donnée, j’interviens sur toute la chaîne : <b>collecte, structuration, analyse, visualisation et déploiement</b>.
   <br/>
@@ -54,16 +54,16 @@
 
 <h1 align="center">📍 Expériences professionnelles</h1>
 
-- 🎯 <b>Data Engineer Climat-Air-Énergie</b> – Métropole Européenne de Lille (2024 - Présent)  
+-  <b>Data Engineer Climat-Air-Énergie</b> – Métropole Européenne de Lille (2024 - Présent)  
   - Analyse de données territoriales sur la consommation, l’énergie et les GES  
   - Développement de dashboards Qlik Sense pour le suivi des politiques publiques  
   - Modélisation de scénarios prospectifs vers la neutralité carbone  
 
-- 🏠 <b>Data Analyst – Métropole de Lyon</b> (2023 - 2024)  
+-  <b>Data Analyst – Métropole de Lyon</b> (2023 - 2024)  
   - Structuration des données de l’habitat et gouvernance de données  
   - Déploiement de dashboards Power BI & automatisation sous Excel  
 
-- 🏦 <b>Chargé d’études statistiques – NSIA Banque, Togo</b> (2019 - 2020)  
+-  <b>Chargé d’études statistiques – NSIA Banque, Togo</b> (2019 - 2020)  
   - Études marketing via scoring, segmentation et analyse transactionnelle (SAS)  
 
 ---
@@ -83,8 +83,7 @@
 <p align="center">
   📧 <b>Email</b> : adoyikhalid@gmail.com <br/>
   📱 <b>Téléphone</b> : +33 7 49 75 85 96 <br/>
-  🌍 <b>Localisation</b> : France (mobile, ouvert au remote) <br/>
-</p>
+  🌍 <b>Localisation</b> : France 
 
 ---
 
@@ -93,5 +92,6 @@
 - 📡 Veille tech (IA, finance quant, énergie)  
 - 🎶 Musique (écoute active, playlists)  
 - 🎾 Sport (tennis, volley-ball)
+- 🎬 Montage Vidéos
 
 ---
