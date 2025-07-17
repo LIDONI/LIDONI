@@ -54,7 +54,7 @@
 
 <h1 align="center"> Expériences professionnelles</h1>
 
--  <b>Data Engineer Climat-Air-Énergie</b> – Métropole Européenne de Lille (2024 - Présent)  
+-  <b>Data Engineer Climat-Air-Énergie</b> – Métropole Européenne de Lille (Octobre 2024 - Juillet 2025)  
   - Analyse de données territoriales sur la consommation, l’énergie et les GES  
   - Développement de dashboards Qlik Sense pour le suivi des politiques publiques  
   - Modélisation de scénarios prospectifs vers la neutralité carbone  
