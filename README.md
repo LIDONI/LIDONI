@@ -78,7 +78,7 @@
 
 ---
 
-<h1 align="center">🌐 Contact</h1>
+<h1 align="center"> Contact</h1>
 
 <p align="center">
   📧 <b>Email</b> : adoyikhalid@gmail.com <br/>
@@ -87,7 +87,7 @@
 
 ---
 
-<h1 align="center">✨ Centres d'intérêt</h1>
+<h1 align="center"> Centres d'intérêt</h1>
 
 - 📡 Veille tech (IA, finance quant, énergie)  
 - 🎶 Musique (écoute active, playlists)  
