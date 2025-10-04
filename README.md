@@ -81,7 +81,7 @@
 <h1 align="center"> Contact</h1>
 
 <p align="center">
-   <b>Email</b> : adoyikhalid@gmail.com <br/>
+   <b>Email</b> : khalidouroadoyi@gmail.com <br/>
    <b>Téléphone</b> : +33 7 49 75 85 96 <br/>
    <b>Localisation</b> : France 
 
