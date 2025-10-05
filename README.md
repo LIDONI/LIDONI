@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khalid OURO-ADOYI 👋</h1>
 <h3 align="center">Data Analyst & Data Engineer | Transforming data into actionable insights & scalable solutions | Python • SQL • Power BI • AWS • GCP</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=36BC9B&center=true&vCenter=true&lines=Data+Analytics+Engineer;Power+BI+%7C+Qlik+Sense+%7C+Python;From+raw+data+to+actionable+insight!" align="center"/>
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=36BC9B&center=true&vCenter=true&lines=From+raw+data+to+actionable+insight!" align="center"/>
 
 ---
 
