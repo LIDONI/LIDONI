@@ -7,12 +7,9 @@
 
 <h1 align="center"> À propos de moi</h1>
 <p align="center">
-  Profil hybride dans le domaine de la donnée, j’interviens sur toute la chaîne : <b>collecte, structuration, analyse, visualisation , conception de modèle de ML et déploiement</b>.
+Data Analyst & Data Engineer passionné par la création de solutions data de bout en bout  de l’ingestion des données à leur valorisation stratégique.
   <br/>
-  J’aide les entreprises et collectivités à transformer leurs données en outils décisionnels concrets via des technologies comme <b>Power BI, Qlik Sense, Python, SQL, Docker</b> et le cloud.
-  <br/>
-  Passionné par la transition énergétique, l’IA appliquée et les usages business de la donnée, avec en atout une compréhension des aspects métier liés à la finance, à l’énergie et aux enjeux business.</b>.
-</p>
+J’interviens sur l’ensemble de la chaîne de valeur : conception de pipelines, modélisation statistique, déploiement de dashboards décisionnels et automatisation des processus analytiques.</p>
 
 ---
 
