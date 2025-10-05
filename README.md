@@ -70,7 +70,6 @@ J’interviens sur l’ensemble de la chaîne de valeur : conception de pipeline
 -  <b>Mastère IA & Data Management</b> – IA School, Lyon (2022–2024)  
 -  <b>Licence Économie Quantitative</b> – Université de Caen (2020–2021)  
 -  <b>Licence Économie et Statistique</b> – Université de Lomé (2016–2019)  
--  <b>AWS Developer Associate</b> – Amazon Web Services  
 
 ---
 
