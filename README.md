@@ -8,7 +8,6 @@
 <h1 align="center"> À propos de moi</h1>
 <p align="center">
 Data Analyst & Data Engineer passionné par la création de solutions data de bout en bout  de l’ingestion des données à leur valorisation stratégique.
-  <br/>
 J’interviens sur l’ensemble de la chaîne de valeur : conception de pipelines, modélisation statistique, déploiement de dashboards décisionnels et automatisation des processus analytiques.</p>
 
 ---
