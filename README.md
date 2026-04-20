@@ -5,10 +5,10 @@
 
 ---
 
-<h1 align="center"> À propos de moi</h1>
+<h1 align="center"> About me </h1>
 <p align="center">
-Data Analyst & Data Engineer passionné par la création de solutions data de bout en bout  de l’ingestion des données à leur valorisation stratégique.
-J’interviens sur l’ensemble de la chaîne de valeur : conception de pipelines, modélisation statistique, déploiement de dashboards décisionnels et automatisation des processus analytiques.</p>
+As a Data Analyst & Data Engineer, I design end-to-end data solutions—from data ingestion to strategic utilization.
+I work across the entire value chain: designing data pipelines, statistical modeling, deploying decision-making dashboards, and automating analytical processes.</p>
 
 ---
 
