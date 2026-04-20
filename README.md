@@ -7,8 +7,8 @@
 
 <h1 align="center"> About me </h1>
 <p align="center">
-As a Data Analyst & Data Engineer, I design end-to-end data solutions—from data ingestion to strategic utilization.
-I work across the entire value chain: designing data pipelines, statistical modeling, deploying decision-making dashboards, and automating analytical processes.</p>
+Data Analyst & Data Engineer, je conçois des solutions data de bout en bout - de l'ingestion des données jusqu'à leur valorisation stratégique.
+J'interviens sur l'ensemble de la chaîne de valeur : conception de pipelines de données, modélisation statistique, déploiement de dashboards décisionnels et automatisation des processus analytiques.</p>
 
 ---
 
