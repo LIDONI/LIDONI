@@ -190,15 +190,6 @@ I am currently strengthening my skills in:
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
-
----
-
 ## 🎯 Areas of Interest
 
 * Data Engineering
@@ -214,23 +205,19 @@ I am currently strengthening my skills in:
 ---
 
 ## 📫 Let's Connect
-
 <p align="center">
+
+<a href="https://lidoni.github.io/Portfolio-khalid/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-36BC9B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khalid-ouro-adoyi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:khalidouroadoyi@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/khalid-ouro-adoyi/">
-  <img src="https://www.linkedin.com/in/khalid-ouro-adoyi/">
-</a>
-
-<a href="https://lidoni.github.io/Portfolio-khalid/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-36BC9B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-  <i>Turning data into reliable insights and scalable solutions.</i>
 </p>
 
