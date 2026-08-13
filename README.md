@@ -221,10 +221,12 @@ I am currently strengthening my skills in:
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/khalid-ouro-adoyi/">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAACUCAMAAADbGilTAAAAaVBMVEUCdLP///8BdLMAaa6nw90Ab7EAX6nu9vpflsRTlMNrnceWt9aXu9jp8fcAcrIAbK/M3esmd7UAZq3h7PSDqc4/hLvZ5vD2+fzU4e2xyuBtmsaOsdJOjb+60eQzgLmQrtFej8B7osp0ps1FfrPZAAAEGUlEQVR4nO3d63KqMBAAYAgGrcqGq1xEWn3/hzygUklgU2WOJM7sTn9psv1MA+TW1ik95xbMGYVVL3mls/oY64qsZCUrWclqzMqAdwH2W0HEUb3ZbjIec2azlYHnpWESrPN1cCi/fM7stfJo7w4iqe49wT4r86qDK8epEVZaWZzmrhqHTKgFLbAykY6kXT+ouVLSvJXx7bhVry0bKX3WvBUgmaS6bunLRc1b4z1Cdd2a22UFjlLdUL68jFu9I24NNnwqmSkrEyFudb/FVDJTVsiwK6uLkwMTyUxZebXWWIvm3bCXrOfpm+u9w1plnX5m9bFubOoDeqtd7corXR84RDZZof6c+wBw3f11Jw21TFvbdzSXVmXVc8uBBrcW8kzGuJX5JWrdislkxqxtw2JPrjC2bfzKBDLSyjPr5gXtLHby8sordXJogdWBKWxQeaMPZYHVAXFUn17Jz4hqh7XFNifp578DdcJtjZUx8OuyCK7OJNw78VKwGdb2i8fR5vz9nVY192Ax2Cyrc11+FUJwgAVhM622vERWspL1j5dYv+lgtRW63af29td+dZtQr+09LGkFEUO2OafH4+6Ypufqp+GxgOfHbDoreEiouxtYQfFot/ZhHfNtGR4e4/c8OIRl2vgyd54VstV+OnbiuYKX35TARVPmUysOeXFpO8OgL8+y8g0yhXFdeQ2efyHFin5jgfNKM4PP9/Xjw/9v6/pJa3izMi/Dp5nXCFaiH2qatYJ/0S033aLI7kN4o1Ye/dGo90hvWJNW3ujWmiTsdcpp0Aq+bglPwXYta87KQd171sW5bVmD1hPy1nTeBsxZ+eUValvB1x2leHO7vkbtry8T1uLZW8BvHBrN0Out1hmRapZKbLMWH2RVt/uttp7iz7Gu41EnsNaq7kVYbS1HncBeazg6Wbe8NV9f489hd6LunCxtTU5pDbHvx+xrH+q5eaXetRa1BsfME+1ktVtv4R6MzijKkaoX15LWdmgoHZwVkXakuMeOAC5gLe+LFY86IHTYE7YU835r2K9aDeqA0Bz8CbHjiu+3cj6RXmzxCokxa9pnl9JDhA9tc+l8yoLW5HGIR1phw/alu5DO/SxoXT0mJXKdTYDWwbbR32zNt8iqGvACrVSbsQ6vEzl9jN+2tsqDayHr8ASHnF5zZPWiPLgWsv7mHqXXrO4asg4HzooVP6akDggWsmaDrqekB7TS0ZNLLmQdjpvl9MxHKxlqV3+OdWemXf2Jb9lb0eGLGWs+LGi5NSArWclKVrKSlaxkJStZyUpWspKVrGQlK1nJSlaykpWsZCUrWcn6ivXZ39+SP5RqRbPvX7c6zRYLPqeg2hRopez1MyTO7S9+ToVS0HmqoJoerTTjTKl1L5GVrGQlK1nJ+mHWD/ofFv8AIkZn92w8/hwAAAAASUVORK5CYII="/>
+</a>
+<a href="https://lidoni.github.io/Portfolio-khalid/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 <p align="center">
