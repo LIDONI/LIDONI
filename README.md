@@ -105,7 +105,7 @@ Technologies:
 
 ## 💼 Professional Experience
 
-### Data Engineer — Climate, Air & Energy
+### Data Engineer - Climate, Air & Energy
 
 **European Metropolis of Lille**
 
@@ -133,7 +133,7 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ### Statistical Analyst
 
-**NSIA Banque — Togo**
+**NSIA Banque - Togo**
 
 * Statistical and marketing analysis
 * Customer segmentation
