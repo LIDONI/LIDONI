@@ -67,16 +67,6 @@ I enjoy transforming complex datasets into **reliable, structured and actionable
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
 </p>
 
-### 🐳 DevOps & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -87,7 +77,7 @@ I enjoy transforming complex datasets into **reliable, structured and actionable
 
 Technologies:
 
-`Python` · `Scikit-learn` · `FastAPI` · `Docker` · `GitHub Actions`
+`Python` · `Scikit-learn` · `FastAPI` · `Docker` · `GitHub Actions` · `MLOPs` · `Generative AI` · `RAG` · `Streamlit`
 
 A complete machine learning workflow including data preprocessing, model training, evaluation, API deployment and containerization.
 
@@ -170,23 +160,17 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ## 🎓 Education
 
-**Data Engineering — OpenClassrooms**
-2024 – 2026
 
-**Mastère Artificial Intelligence & Data Management — IA School, Lyon**
-2022 – 2024
+**Master's in Artificial Intelligence and Data Management - IA School, Lyon**
 
-**Licence Économie Quantitative — Université de Caen Normandie**
+**Bachelor's in Economics and Statistics - University of Lomé**
 
-**Licence Économie & Statistique — Université de Lomé**
 
 ---
 
 ## 📚 Currently Learning
 
-I am currently strengthening my skills in:
-
-`Data Engineering` · `dbt` · `Cloud Data Platforms` · `Apache Spark` · `Databricks` · `Snowflake` · `MLOps` · `Generative AI` · `RAG`
+Master of technology - ingénieur data : openclassrooms 
 
 ---
 
