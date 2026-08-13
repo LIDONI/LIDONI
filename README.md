@@ -76,6 +76,7 @@ I enjoy transforming complex datasets into **reliable, structured and actionable
 Technologies:
 
 `Power BI` · `Qlik Sense` · `GCP` · `BigQuery` · `Python` · `R` · `SAS` · `SQL`
+
 ---
 
 ### **Data Engineering project**
