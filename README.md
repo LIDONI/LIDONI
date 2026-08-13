@@ -69,53 +69,36 @@ I enjoy transforming complex datasets into **reliable, structured and actionable
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills 
 
-### ✈️ British Airways Booking — MLOps
-
-**Machine Learning & MLOps project**
+### **Data Analytics & Business Intelligence**
 
 Technologies:
 
-`Python` · `Scikit-learn` · `FastAPI` · `Docker` · `GitHub Actions` · `MLOPs` · `Generative AI` · `RAG` · `Streamlit`
-
-A complete machine learning workflow including data preprocessing, model training, evaluation, API deployment and containerization.
-
+`Power BI` · `Qlik Sense` · `GCP` · `BigQuery` · `Python` · `R` · `SAS` · `SQL`
 ---
 
-### 🏗️ Data Transformation Pipeline — dbt & DuckDB
-
-**Data Engineering project**
+### **Data Engineering project**
 
 Technologies:
 
-`SQL` · `DuckDB` · `dbt`
-
-Development of a data transformation pipeline using dbt, including data cleaning, transformation, testing and analytical modeling.
+`dbt` · `DuckDB` · `Snowflake` · `Airflow`
 
 ---
 
 ### ⚡ Real-Time Data Pipeline
 
-**Streaming & Data Engineering project**
-
 Technologies:
 
 `Python` · `Redpanda` · `Kafka` · `PySpark`
 
-Implementation of a streaming data pipeline for ingesting and processing real-time data.
-
 ---
 
-### 🌱 Climate, Air & Energy Data
-
-**Data Engineering & Analytics**
+### **Machine Learning & AI**
 
 Technologies:
 
-`GCP` · `BigQuery` · `Qlik Sense` · `Data Pipelines`
-
-Data engineering and analytics solutions applied to territorial climate, air quality and energy data.
+ `Scikit-learn` · `XGBoost` · `MLOps` · `Generative AI` · `RAG` · `Streamlit`
 
 ---
 
