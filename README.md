@@ -14,7 +14,7 @@ Building data solutions from raw data to actionable insights.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I am a **Data professional** with a background in statistics, economics and artificial intelligence.
 
@@ -33,7 +33,7 @@ I enjoy transforming complex datasets into **reliable, structured and actionable
 
 ---
 
-##  Tech Stack
+#  Tech Stack
 
 ###  Data Analytics & Business Intelligence
 
@@ -69,7 +69,7 @@ I enjoy transforming complex datasets into **reliable, structured and actionable
 
 ---
 
-## Technical Skills 
+# Technical Skills 
 
 ### **Data Analytics & Business Intelligence**
 
@@ -103,7 +103,7 @@ Technologies:
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 ### Data Engineer - Climate, Air & Energy
 
@@ -142,7 +142,7 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 
 **Master's in Artificial Intelligence and Data Management - IA School, Lyon**
@@ -152,13 +152,13 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 Master of technology - ingénieur data : openclassrooms 
 
 ---
 
-## 🎯 Areas of Interest
+# 🎯 Areas of Interest
 
 * Data Engineering
 * Data Analytics
@@ -172,7 +172,7 @@ Master of technology - ingénieur data : openclassrooms
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 <p align="center">
 
 <a href="https://lidoni.github.io/Portfolio-khalid/" target="_blank">
