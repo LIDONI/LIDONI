@@ -33,16 +33,16 @@ I enjoy transforming complex datasets into **reliable, structured and actionable
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 📊 Data Analytics & Business Intelligence
+###  Data Analytics & Business Intelligence
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik&logoColor=white"/>
 </p>
 
-### 💻 Programming & Data Analysis
+###  Programming & Data Analysis
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,14 +51,14 @@ I enjoy transforming complex datasets into **reliable, structured and actionable
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Data Platforms
+###  Cloud & Data Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </p>
 
-### 🔧 Data Engineering
+###  Data Engineering
 
 <p>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
