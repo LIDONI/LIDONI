@@ -103,7 +103,7 @@ Technologies:
 
 ---
 
-# 💼 Professional Experience
+#  Professional Experience
 
 ### Data Engineer - Climate, Air & Energy
 
@@ -142,7 +142,7 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ---
 
-# 🎓 Education
+#  Education
 
 
 **Master's in Artificial Intelligence and Data Management - IA School, Lyon**
@@ -152,7 +152,7 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ---
 
-# 📚 Currently Learning
+#  Professional Certification
 
 Master of technology - ingénieur data : openclassrooms 
 
