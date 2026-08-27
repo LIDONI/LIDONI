@@ -133,7 +133,7 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ### Statistical Analyst
 
-**NSIA Banque - Togo**
+**COOPECFI - Togo**
 
 * Statistical and marketing analysis
 * Customer segmentation
