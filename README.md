@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khalid OURO-ADOYI 👋</h1>
+<h1 align="center">Hi, I'm KHALID 👋</h1>
 
 <h3 align="center">
 Data Analyst / Data Engineer - Data & Analytics
