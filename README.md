@@ -9,7 +9,7 @@ Building data solutions from raw data to actionable insights.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=36BC9B&center=true&vCenter=true&lines=Data+Engineering;Data+Analytics;Cloud+Data+Solutions;From+raw+data+to+actionable+insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=36BC9B&center=true&vCenter=true&lines=Data+Analyst;Data+Engineering;Data+Analytics;Cloud+Data+Solutions;From+raw+data+to+actionable+insights" />
 </p>
 
 ---
