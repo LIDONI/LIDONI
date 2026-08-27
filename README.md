@@ -154,7 +154,7 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 #  Professional Certification : 
 
-Master of technology - Data engineer (openclassrooms) 
+**Master of technology - Data engineer** (openclassrooms) 
 - Data Pipelines & Cloud Specialization 
 
 ---
