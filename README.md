@@ -87,7 +87,7 @@ Technologies:
 
 ---
 
-### ⚡ Real-Time Data Pipeline
+### **Real-Time Data Pipeline**
 
 Technologies:
 
@@ -152,9 +152,10 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ---
 
-#  Professional Certification
+#  Professional Certification : 
 
-Master of technology - ingénieur data : openclassrooms 
+Master of technology - Data engineer (openclassrooms) 
+- Data Pipelines & Cloud Specialization 
 
 ---
 
