@@ -145,9 +145,9 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 #  Education
 
 
-**Master's in Artificial Intelligence and Data Management - IA School, Lyon**
+- **Master's in Artificial Intelligence and Data Management - IA School, Lyon**
 
-**Bachelor's in Economics and Statistics - University of Lomé**
+- **Bachelor's in Economics and Statistics - University of Lomé**
 
 
 ---
