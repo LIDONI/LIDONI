@@ -159,7 +159,7 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ---
 
-# 🎯 Areas of Interest
+#  Areas of Interest
 
 * Data Engineering
 * Data Analytics
@@ -173,7 +173,7 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 
 ---
 
-# 📫 Let's Connect
+#  Let's Connect
 <p align="center">
 
 <a href="https://lidoni.github.io/Portfolio-khalid/" target="_blank">
