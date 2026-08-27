@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khalid OURO-ADOYI 👋</h1>
 
 <h3 align="center">
-Data Engineer | Data Analytics | Data & AI
+Data Analyst / Data Engineer - Data & Analytics
 </h3>
 
 <p align="center">
