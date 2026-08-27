@@ -16,7 +16,7 @@ Building data solutions from raw data to actionable insights.
 
 ## 👨‍💻 About Me
 
-I am a **Data Engineer and Data Analytics professional** with a background in statistics, economics and artificial intelligence.
+I am a **Data professional** with a background in statistics, economics and artificial intelligence.
 
 I design and develop data solutions across the data lifecycle, from **data collection and transformation to analytics, visualization and decision-making**.
 
