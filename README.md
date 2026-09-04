@@ -168,9 +168,7 @@ Data engineering and analytics applied to territorial climate, energy and greenh
 * Machine Learning
 * Generative AI
 * Data Visualization
-* Quantitative Finance
-* Energy & Climate Data
-
+  
 ---
 
 #  Let's Connect
