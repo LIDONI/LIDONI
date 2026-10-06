@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm KHALID 👋</h1>
 
 <h3 align="center">
-Data Analyst / Data Engineer - Data & AI
+ Data Engineer / Data Analyst - Data & AI
 </h3>
 
 <p align="center">
